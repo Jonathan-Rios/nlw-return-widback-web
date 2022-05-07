@@ -48,6 +48,8 @@ O app estará disponível no seu browser pelo endereço http://localhost:3000.
 
 Lembrando que será necessário configurar e rodar o [Servidor](https://github.com/Jonathan-Rios/nlw-return-widback-server) para ver o funcionamento completo.
 
+Não necessário para rodar, mas caso queira ver o projeto [Mobile](https://github.com/Jonathan-Rios/nlw-return-widback-mobile.git)
+
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através do link abaixo:
