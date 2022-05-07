@@ -63,7 +63,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](./LICENSE.md) pa
 <br />
 
 <a href="https://github.com/Jonathan-Rios">
- <img src="https://github.com/Jonathan-Rios.png" width="100px;" alt="" style="border-radius:50%" />
+ <img src="https://github.com/Jonathan-Rios.png" width="100px;" alt="" style="border-radius:50%; max-width: 100%;" />
  <br />
  <sub><b>Jonathan Rios Sousa</b></sub></a>
 
