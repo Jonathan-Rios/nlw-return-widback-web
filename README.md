@@ -1,4 +1,4 @@
-<h1 align="center">Next Level Week Return - Widback</h1>
+<h1 align="center">Next Level Week Return - Widback[Web]</h1>
 
 <p align="center">
  <img src="https://img.shields.io/static/v1?label=NLW&message=Return&color=E51C44&labelColor=0A1033" alt="NLW Return" />
@@ -40,7 +40,7 @@ O app estará disponível no seu browser pelo endereço http://localhost:3000.
 Lembrando que será necessário configurar e rodar o [Servidor](https://link/) para ver o funcionamento completo.
 
 ## 💻 Projeto
-Widget para adicionar feedbacks nas aplicações mobile, permitindo capturar a imagem aparente na tela e anexar ao feedback. Permitindo reportar bugs, partilhar novas ideias ou o que desejar. 
+Widget para adicionar feedbacks nas páginas, permitindo capturar a imagem aparente na tela e anexar ao feedback. Permitindo reportar bugs, partilhar novas ideias ou o que desejar. 
 
 Este é um projeto desenvolvido durante a **[Next Level Week Return](https://nextlevelweek.com/)**, apresentada dos dias 01 a 08 de Maio de 2022.
 
