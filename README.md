@@ -55,7 +55,7 @@ Lembrando que você precisa ter uma conta no [Figma](http://figma.com/).
 
 ## 📝 License
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](./LICENSE.md) para mais detalhes.
 
 <br />
 
@@ -63,7 +63,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 <br />
 
 <a href="https://github.com/Jonathan-Rios">
- <img style="border-radius: 50%;" src="https://github.com/Jonathan-Rios.png" width="100px;" alt=""/>
+ <img src="https://github.com/Jonathan-Rios.png" width="100px;" alt="" style="border-radius:50%" />
  <br />
  <sub><b>Jonathan Rios Sousa</b></sub></a>
 
