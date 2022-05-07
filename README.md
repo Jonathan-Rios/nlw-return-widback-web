@@ -63,7 +63,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](./LICENSE.md) pa
 <br />
 
 <a href="https://github.com/Jonathan-Rios">
- <img src="https://github.com/Jonathan-Rios.png" width="100px;" alt="" style="border-radius:50%; max-width: 100%;" />
+ <img src="https://github.com/Jonathan-Rios.png" width="100px;" alt="" bordered />
  <br />
  <sub><b>Jonathan Rios Sousa</b></sub></a>
 
@@ -71,3 +71,8 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](./LICENSE.md) pa
 
 [![Linkedin Badge](https://img.shields.io/badge/-Jonathan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonathan-rios-sousa-19b3431b6/)](https://www.linkedin.com/in/tgmarinho/) 
 [![Gmail Badge](https://img.shields.io/badge/-jonathan.riosousa@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jonathan.riosousa@gmail.com)](mailto:jonathan.riosousa@gmail.com)
+
+
+img[src~="bordered"] {
+   border: 1px solid black;
+}
