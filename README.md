@@ -46,7 +46,7 @@ $ npm run start
 ```
 O app estará disponível no seu browser pelo endereço http://localhost:3000.
 
-Lembrando que será necessário configurar e rodar o [Servidor](https://link/) para ver o funcionamento completo.
+Lembrando que será necessário configurar e rodar o [Servidor](https://github.com/Jonathan-Rios/nlw-return-widback-server) para ver o funcionamento completo.
 
 ## 🔖 Layout
 
